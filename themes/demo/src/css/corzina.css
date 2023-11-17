@@ -1,0 +1,10 @@
+@media(max-width: 770px) {
+    table thead {
+        display: none;
+    }
+    table td:before {
+        content: attr(data-label);
+        float: inline-end;
+        font-size: 12px;
+    }
+}

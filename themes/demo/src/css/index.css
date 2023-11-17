@@ -1,0 +1,13 @@
+@import './font.css';
+@import './header-list.css';
+@import './swiper';
+@import './blog5.css';
+@import './blog7.css';
+@import './dostavka.css';
+@import './corzina.css';
+@import './contacts.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+

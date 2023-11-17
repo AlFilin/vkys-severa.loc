@@ -1,0 +1,61 @@
+.dostavka-tabs {
+    display: flex;
+}
+
+.dostavka-item {
+    display: none;
+}
+
+.dostavka-item--active {
+    display: block;
+}
+.dostavka-btn {
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 15px 15px 0 0;
+    border-bottom: none;
+}
+
+.dostavka-btn--active {
+    border: 1px solid violet;
+    border-bottom: none;
+    border-radius: 15px 15px 0 0;
+}
+
+.dostavka-btn:hover {
+    background: linear-gradient(rgb(232, 147, 232, 0.2), transparent);
+    border: 1px solid violet;
+    border-bottom: none;
+    border-radius: 15px 15px 0 0;
+}
+
+@media(max-width: 566px) {
+    .btn-box {
+        border: 1px solid rgba(129, 72, 152, 0.45);
+        border-bottom: none;
+        border-radius: 15px 15px 0 0;
+    }
+    .dostavka-btn {
+        width: 100%;
+        border: 0.5px solid white;
+    }
+    .dostavka-btn--active {
+        background: linear-gradient(rgb(232, 147, 232, 0.2), transparent);
+        border-radius: 15px 15px 0 0;
+        border: 0.5px solid violet;
+        text-decoration: underline dotted 0.5px;
+        text-decoration-color: dimgray;
+        text-underline-offset: 5px;
+    }
+    .dostavka-btn1:hover {
+        background: linear-gradient(rgb(232, 147, 232, 0.2), transparent);
+        border-radius: 15px 15px 0 0;
+        border: 0.5px solid violet;
+        border-bottom: none;
+    }
+    .dostavka-btn2:hover {
+        background: linear-gradient(rgb(232, 147, 232, 0.2), transparent);
+        border-radius: 0 0 0 0;
+        border: 0.5px solid violet;
+    }
+}

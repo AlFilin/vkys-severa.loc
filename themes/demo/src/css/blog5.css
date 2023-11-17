@@ -1,0 +1,56 @@
+.anim-line:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    background: #ce99e2;
+    border-radius: 5px;
+}
+
+.anim-line-top:before {
+    left: 0;
+    height: 4px;
+}
+
+.anim-line-bottom:before {
+    right: 0;
+    height: 4px;
+}
+.anim-line-left:before {
+    bottom: 0;
+    width: 4px;
+}
+.anim-line-right:before {
+    top: 0;
+    width: 4px;
+}
+.anim-blok .anim-line-horizont:before {
+    animation: shl 6s linear infinite forwards;
+    animation-delay: 2s;
+}
+.anim-blok .anim-line-vertical:before {
+    animation: shl2 6s linear infinite forwards;
+    animation-delay: 2s;
+}
+
+@keyframes shl {
+    0% {
+        width: 0;
+    }
+    25% {
+        width: 0;
+    }
+    to {
+        width: 100%
+    }
+}
+@keyframes shl2 {
+    0% {
+        height: 0;
+    }
+    25% {
+        height: 0;
+    }
+    to {
+        height: 100%
+    }
+}

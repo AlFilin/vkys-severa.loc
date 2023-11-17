@@ -1,0 +1,20 @@
+##
+description = "Default layout"
+==
+<!DOCTYPE html>
+<html>
+  <head>
+    {% partial 'site/meta' %}
+  </head>
+  <body class="layout-home" style="background-image: url(/themes/demo/assets/images/bg.png);">
+    <header id="layout-header">
+      {% partial 'site/header' %}
+    </header>
+    <section id="layout-content">
+      {% page %}
+    </section>
+  <footer id="layout-footer">
+    {% partial 'site/footer' %}
+  </footer>
+  </body>
+</html>

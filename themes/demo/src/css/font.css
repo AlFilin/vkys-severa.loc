@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'CormorantSC-Bold';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local(""), url("http://vkys-severa.loc/themes/demo/assets/fonts/CormorantSC-Bold.eot") format("embedded-opentype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/CormorantSC-Bold.ttf") format("truetype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/CormorantSC-Bold.woff") format("woff");
+}
+@font-face {
+    font-family: 'CormorantSC-Light';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local(""), url("http://vkys-severa.loc/themes/demo/assets/fonts/CormorantSC-Light.eot") format("embedded-opentype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/CormorantSC-Light.ttf") format("truetype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/CormorantSC-Light.woff") format("woff");
+}
+@font-face {
+    font-family: 'CormorantSC-Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local(""), url("http://vkys-severa.loc/themes/demo/assets/fonts/CormorantSC-Medium.eot") format("embedded-opentype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/CormorantSC-Medium.ttf") format("truetype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/CormorantSC-Medium.woff") format("woff");
+}
+@font-face {
+    font-family: 'CormorantSC-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local(""), url("http://vkys-severa.loc/themes/demo/assets/fonts/CormorantSC-Regular.eot") format("embedded-opentype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/CormorantSC-Regular.ttf") format("truetype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/CormorantSC-Regular.woff") format("woff");
+}
+@font-face {
+    font-family: 'CormorantSC-SemiBold';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local(""), url("http://vkys-severa.loc/themes/demo/assets/fonts/CormorantSC-SemiBold.eot") format("embedded-opentype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/CormorantSC-SemiBold.ttf") format("truetype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/CormorantSC-SemiBold.woff") format("woff");
+}
+@font-face {
+    font-family: 'CormorantSC-Bold';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local(""), url("http://vkys-severa.loc/themes/demo/assets/fonts/CormorantSC-Bold.eot") format("embedded-opentype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/CormorantSC-Bold.ttf") format("truetype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/CormorantSC-Bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'TTInterfaces-Bold';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local(""), url("http://vkys-severa.loc/themes/demo/assets/fonts/TTInterfaces-Bold.eot") format("embedded-opentype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/TTInterfaces-Bold.ttf") format("truetype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/TTInterfaces-Bold.woff") format("woff");
+}
+@font-face {
+    font-family: 'TTInterfaces-Light';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local(""), url("http://vkys-severa.loc/themes/demo/assets/fonts/TTInterfaces-Light.eot") format("embedded-opentype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/TTInterfaces-Light.ttf") format("truetype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/TTInterfaces-Light.woff") format("woff");
+}
+@font-face {
+    font-family: 'TTInterfaces-Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local(""), url("http://vkys-severa.loc/themes/demo/assets/fonts/TTInterfaces-Medium.eot") format("embedded-opentype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/TTInterfaces-Medium.ttf") format("truetype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/TTInterfaces-Medium.woff") format("woff");
+}
+@font-face {
+    font-family: 'TTInterfaces-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local(""), url("http://vkys-severa.loc/themes/demo/assets/fonts/TTInterfaces-Regular.eot") format("embedded-opentype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/TTInterfaces-Regular.ttf") format("truetype"),
+    url("http://vkys-severa.loc/themes/demo/assets/fonts/TTInterfaces-Regular.woff") format("woff");
+}
